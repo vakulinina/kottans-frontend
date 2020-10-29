@@ -1,3 +1,6 @@
+* [Git and GitHub](#git-and-github)
+* [Linux CLI and HTTP](#linux-cli-and-http)
+
 # Git and GitHub
 
 I've had some general idea about Git and basic concepts like commits, branches, merging and pull requests as I've had experience working in a development team as a tester. However how it all is done in practice seemed like rocket science to me (especially "scary" rebasing, cherry-picks and resolving merge conflicts). Now I see it is absolutely not :).  
@@ -18,5 +21,16 @@ Pretty much everything in courses was __new to me__:
  ### Learn Git Branching at [learngitbranching](https://learngitbranching.js.org/)
  ![git-learngitbranching](http://joxi.ru/Vm6zg8EivK6dMm.png)
  ![git-learngitbranching](http://joxi.ru/5mdolPVC8JdVXr.png)
+ 
+</details>
+
+# Linux CLI and HTTP
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+ | ![cli-shot-1](task_linux_cli/cli-1.png) | ![cli-shot-2](task_linux_cli/cli-2.png) |
+ | --- | --- |
+ | ![cli-shot-3](task_linux_cli/cli-3.png) | ![cli-shot-4](task_linux_cli/cli-4.png) |
  
 </details>
