@@ -9,9 +9,14 @@ Pretty much everything in courses was __new to me__:
 
  __What surprised me__ is how flexible Git is, as there is always a way to fix a mistake and it's quite hard to make a fatal one.
 
-### Version Control with Git at [udacity](https://www.udacity.com/course/version-control-with-git--ud123)
-![git-udacity](http://joxi.ru/J2by0PocVM1ygm.png)
+<details>
+ <summary>Screenshots:</summary>  
+ 
+ ### Version Control with Git at [udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+ ![git-udacity](http://joxi.ru/J2by0PocVM1ygm.png)
 
-### Learn Git Branching at [learngitbranching](https://learngitbranching.js.org/)
-![git-learngitbranching](http://joxi.ru/Vm6zg8EivK6dMm.png)
-![git-learngitbranching](http://joxi.ru/5mdolPVC8JdVXr.png)
+ ### Learn Git Branching at [learngitbranching](https://learngitbranching.js.org/)
+ ![git-learngitbranching](http://joxi.ru/Vm6zg8EivK6dMm.png)
+ ![git-learngitbranching](http://joxi.ru/5mdolPVC8JdVXr.png)
+ 
+</details>
