@@ -26,6 +26,7 @@ Pretty much everything in courses was __new to me__:
 
 # Linux CLI and HTTP
 
+Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course, because I'd already known most basic commands in linux CLI and used them in my work. 
 <details>
  <summary>Screenshots:</summary> 
  
@@ -34,3 +35,5 @@ Pretty much everything in courses was __new to me__:
  | ![cli-shot-3](task_linux_cli/cli-3.png) | ![cli-shot-4](task_linux_cli/cli-4.png) |
  
 </details>
+
+As for the articles on HTTP I found interesting the second part, where specifics of HTTP connections, identification, authentication and caching are revealed. Most of this information was new to me. All I was familiar with before were HTTP request methods, response codes and structure of request and response messages.
