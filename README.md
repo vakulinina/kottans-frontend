@@ -5,7 +5,7 @@
 # Git and GitHub
 
 I've had some general idea about Git and basic concepts like commits, branches, merging and pull requests as I've had experience working in a development team as a tester. However how it all is done in practice seemed like rocket science to me (especially "scary" rebasing, cherry-picks and resolving merge conflicts). Now I see it is absolutely not :).  
-Pretty much everything in courses was **new to me**:
+Pretty much everything in the courses was **new to me**:
 
 - making changes to commits with `git revert` and `git reset`
 - working with remote repo with `git push`, `git fetch` and `git pull`
@@ -43,7 +43,7 @@ As for the articles on HTTP I found interesting the second part, where specifics
 
 # Git Collaboration
 
-In course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) and new levels of [learngitbranching](https://learngitbranching.js.org/) I dug deeper into working with remote repositories and collaborating, via GitHub specifically.  
+In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) and new levels of [learngitbranching](https://learngitbranching.js.org/) I dug deeper into working with remote repositories and collaborating, via GitHub specifically.  
 **What was new**:
 
 - creating a connection to a remote repo with `git remote add origin <url>`
