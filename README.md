@@ -65,7 +65,7 @@ In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud4
 
 ## Intro to HTML and CSS
 
-I already had knowledge of most of what is in these courses and used it in practice, but in any way it was useful to recall.  
+I already had knowledge of most of what is in these courses and used it in practice, but anyway it was useful to recall.  
 **What was new**:
 
 - CSS Grid. Compared to Flexbox it seems to be more appropriate when building a layout with many rows and columns and more convenient when you need high accuracy in managing sizes and position of elements
