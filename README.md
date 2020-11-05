@@ -1,8 +1,11 @@
+# Kottans-Frontend course
+
 - [Git and GitHub](#git-and-github)
 - [Linux CLI and HTTP](#linux-cli-and-http)
 - [Git Collaboration](#git-collaboration)
+- [Intro to HTML and CSS](#intro-to-html-and-css)
 
-# Git and GitHub
+## Git and GitHub
 
 I've had some general idea about Git and basic concepts like commits, branches, merging and pull requests as I've had experience working in a development team as a tester. However how it all is done in practice seemed like rocket science to me (especially "scary" rebasing, cherry-picks and resolving merge conflicts). Now I see it is absolutely not :).  
 Pretty much everything in the courses was **new to me**:
@@ -26,7 +29,7 @@ Pretty much everything in the courses was **new to me**:
 
 </details>
 
-# Linux CLI and HTTP
+## Linux CLI and HTTP
 
 Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course, because I'd already known most basic commands in linux CLI and used them in my work.
 
@@ -41,7 +44,7 @@ Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course,
 
 As for the articles on HTTP I found interesting the second part, where specifics of HTTP connections, identification, authentication and caching are revealed. Most of this information was new to me. All I was familiar with before were HTTP request methods, response codes and structure of request and response messages.
 
-# Git Collaboration
+## Git Collaboration
 
 In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) and new levels of [learngitbranching](https://learngitbranching.js.org/) I dug deeper into working with remote repositories and collaborating, via GitHub specifically.  
 **What was new**:
@@ -60,7 +63,7 @@ In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud4
  
 </details>
 
-# Intro to HTML and CSS
+## Intro to HTML and CSS
 
 I already had knowledge of most of what is in these courses and used it in practice, but in any way it was useful to recall.  
 **What was new**:
