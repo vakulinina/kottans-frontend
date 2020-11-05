@@ -59,3 +59,20 @@ In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud4
 ![git learngitbranching 2](task_git_collaboration/git-colab-lgb-2.png)
  
 </details>
+
+# Intro to HTML and CSS
+
+I already had knowledge of most of what is in these courses and used it in practice, but in any way it was useful to recall.  
+**What was new**:
+
+- CSS Grid
+- CSS Transitions
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+![css/html udacity](task_html_css_intro/html-css-udacity.png)
+![learn html codecademy](task_html_css_intro/html-css-ca-1.png)
+![learn css codecademy](task_html_css_intro/html-css-ca-2.png)
+ 
+</details>
