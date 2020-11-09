@@ -4,6 +4,7 @@
 - [Linux CLI and HTTP](#linux-cli-and-http)
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css)
+- [Responsive Web Design](#responsive-web-design)
 
 ## Git and GitHub
 
@@ -77,5 +78,23 @@ I already had knowledge of most of what is in these courses and used it in pract
 ![css/html udacity](task_html_css_intro/html-css-udacity.png)
 ![learn html codecademy](task_html_css_intro/html-css-ca-1.png)
 ![learn css codecademy](task_html_css_intro/html-css-ca-2.png)
+ 
+</details>
+
+## Responsive Web Design
+
+In Udacity course a lot was **new to me**: 
+- common responsive patterns: column drop, mostly fluid, layout shifter, off canvas
+- picking breakpoints and using media queries `@media`
+- setting the viewport `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+I found content-based approach in picking breakpoints very useful and definitely going to use it in the future.
+
+Also it was useful to recall flexbox properties.
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+![udacity responsive web design](task_responsive_web_design/udacity_responsive_web_design.png)
+![flexbox froggy](task_responsive_web_design/flexbox-froggy.png)
  
 </details>
