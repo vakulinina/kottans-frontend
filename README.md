@@ -5,6 +5,7 @@
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css)
 - [Responsive Web Design](#responsive-web-design)
+- [HTML & CSS Practice](#html--css-practice)
 
 ## Git and GitHub
 
@@ -83,11 +84,12 @@ I already had knowledge of most of what is in these courses and used it in pract
 
 ## Responsive Web Design
 
-In Udacity course a lot was **new to me**: 
+In Udacity course a lot was **new to me**:
+
 - common responsive patterns: column drop, mostly fluid, layout shifter, off canvas
 - picking breakpoints and using media queries `@media`
 - setting the viewport `<meta name="viewport" content="width=device-width, initial-scale=1.0">`  
-I found content-based approach in picking breakpoints very useful and definitely going to use it in the future.
+  I found content-based approach in picking breakpoints very useful and definitely going to use it in the future.
 
 Also it was useful to recall flexbox properties.
 
@@ -98,3 +100,8 @@ Also it was useful to recall flexbox properties.
 ![flexbox froggy](task_responsive_web_design/flexbox-froggy.png)
  
 </details>
+
+## HTML & CSS Practice
+
+[Demo](https://vakulinina.github.io/kottans-html-css-popup/) | [Code base](https://github.com/vakulinina/kottans-html-css-popup)  
+It surprised me that this task could be done without JS code and it took me quite some time to come up with the solution. I also found tricky adding focus state to all of the interactive elements, although this part of the task had seemed the easiest :))
