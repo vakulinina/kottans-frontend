@@ -6,6 +6,8 @@
 - [Intro to HTML and CSS](#intro-to-html-and-css)
 - [Responsive Web Design](#responsive-web-design)
 - [HTML & CSS Practice](#html--css-practice)
+- [JS Basics](#js-basics)
+
 
 ## Git and GitHub
 
@@ -105,3 +107,24 @@ Also it was useful to recall flexbox properties.
 
 [Demo](https://vakulinina.github.io/kottans-html-css-popup/) | [Code base](https://github.com/vakulinina/kottans-html-css-popup)  
 It surprised me that this task could be done without JS code and it took me quite some time to come up with the solution. I also found tricky adding focus state to all of the interactive elements, although this part of the task had seemed the easiest :))
+
+## JS Basics
+
+What was new to me in Udacity course and FreeCodeCamp exercises:
+- arrays, objects and their methods
+- `do…while` loops
+- difference between `let` and `var`
+- rest parameter
+- spread syntax
+- destructuring assignment with arrays and objects
+- principles of functional programming  
+
+Intermediate algorithm scripting challenges were a little tough and made me understand all new things much better, going to finish the rest of them in the future.
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+![udacity intro to js](task_js_basics/udacity_intro_js.png)
+![freecodecamp js basics](task_js_basics/freecodecamp.png)
+ 
+</details>
