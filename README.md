@@ -9,7 +9,7 @@
 - [JS Basics](#js-basics)
 - [Document Object Model](#document-object-model)
 - [Building a Tiny JS World](#building-a-tiny-js-world)
-
+- [Object-Oriented JavaScript](#object-oriented-js)
 
 ## Git and GitHub
 
@@ -153,3 +153,24 @@ A practical task helped to consolidate this information a lot:
 ## Building a Tiny JS World
 
 [Demo](https://vakulinina.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vakulinina/a-tiny-JS-world)
+
+## Object-Oriented JS
+
+What was new in Udacity course:  
+- concepts of lexical scope, execution context (in-memory scope), closures, prototype chains
+- patterns for modelling object-oriented code (and my notes on the way I understand them :)):
+  - **Object Decorator Pattern** (function takes an object as input and adds properties/methods to it)
+  - **Functional Class Pattern** (constructor function creates an object (instance of a class) and adds properties/methods to it, shared properties and methods are copied to every instance of a class)
+  - **Prototypal Class Pattern** (constructor function creates an object (instance of a class) that has shared properties/methods stored in a prototype object that is referenced by `prototype` property of a function)
+  - **Pseudoclassical Pattern** (adds layer of syntactic conveniences over pure prototypal pattern + perfomance optimizations implemented by JS engines applied when using the pattern. Invocation of such constructor functions is done with keyword `new`)
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+![udacity oop](task_js_oop/udacity_oop.png)
+![codewars profile](task_js_oop/codewars.png)
+ 
+</details>
+
+Practical task:  
+[Demo](https://vakulinina.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/vakulinina/frontend-nanodegree-arcade-game)
