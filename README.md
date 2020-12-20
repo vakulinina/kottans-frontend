@@ -7,6 +7,7 @@
 - [Responsive Web Design](#responsive-web-design)
 - [HTML & CSS Practice](#html--css-practice)
 - [JS Basics](#js-basics)
+- [Document Object Model](#document-object-model)
 
 
 ## Git and GitHub
@@ -126,5 +127,24 @@ Intermediate algorithm scripting challenges were a little tough and made me unde
  
 ![udacity intro to js](task_js_basics/udacity_intro_js.png)
 ![freecodecamp js basics](task_js_basics/freecodecamp.png)
+ 
+</details>
+
+## Document Object Model
+
+In Udacity course I learned:  
+- how DOM is built, what Nodes and Elements are
+- how to create content with JS
+- how to work with events and what Event Loop is
+- about processes of reflow and repaint and how to increase performance with them in mind  
+
+A practical task helped to consolidate this information a lot:
+[Demo](https://vakulinina.github.io/kottans-js-dom/) | [Code base](https://github.com/vakulinina/kottans-js-dom)
+
+<details>
+ <summary>Screenshots:</summary> 
+ 
+![udacity dom](task_js_dom/freecodecamp_2.png)
+![freecodecamp challenges](task_js_dom/udacity_dom.png)
  
 </details>
