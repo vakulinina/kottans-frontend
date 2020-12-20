@@ -8,6 +8,7 @@
 - [HTML & CSS Practice](#html--css-practice)
 - [JS Basics](#js-basics)
 - [Document Object Model](#document-object-model)
+- [Building a Tiny JS World](#building-a-tiny-js-world)
 
 
 ## Git and GitHub
@@ -148,3 +149,7 @@ A practical task helped to consolidate this information a lot:
 ![freecodecamp challenges](task_js_dom/udacity_dom.png)
  
 </details>
+
+## Building a Tiny JS World
+
+[Demo](https://vakulinina.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vakulinina/a-tiny-JS-world)
