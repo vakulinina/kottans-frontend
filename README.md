@@ -10,6 +10,7 @@
 - [Document Object Model](#document-object-model)
 - [Building a Tiny JS World](#building-a-tiny-js-world)
 - [Object-Oriented JavaScript](#object-oriented-js)
+- [OOP exercise](#oop-exercise)
 
 ## Git and GitHub
 
@@ -174,3 +175,8 @@ What was new in Udacity course:
 
 Practical task:  
 [Demo](https://vakulinina.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/vakulinina/frontend-nanodegree-arcade-game)
+
+## OOP exercise
+
+Improved Tiny JS World task:
+[Demo](https://vakulinina.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vakulinina/a-tiny-JS-world)
