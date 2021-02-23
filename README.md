@@ -11,6 +11,8 @@
 - [Building a Tiny JS World](#building-a-tiny-js-world)
 - [Object-Oriented JavaScript](#object-oriented-js)
 - [OOP exercise](#oop-exercise)
+- [Memory Pair Game](#memory-pair-game)
+- [Friends App](#friends-app)
 
 ## Git and GitHub
 
@@ -180,3 +182,11 @@ Practical task:
 
 Improved Tiny JS World task:
 [Demo](https://vakulinina.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vakulinina/a-tiny-JS-world)
+
+## Memory Pair Game
+
+[Demo](https://vakulinina.github.io/kottans-memory-pair-game/) | [Code base](https://github.com/vakulinina/kottans-memory-pair-game)
+
+## Friends App
+
+[Demo](https://vakulinina.github.io/kottans-friends-app/) | [Code base](https://github.com/vakulinina/kottans-friends-app)
